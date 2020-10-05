@@ -3,7 +3,7 @@ layout: default
 ---
 # Is the Fucker Dead Yet or Not?
 
-### Not yet, but fingers crossed! 🤞
+### He's not dead yet but he is doing some stupid shit ... so any day now. 🤞
 
 ---------------
 ---------------
