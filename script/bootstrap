@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+#brew unlink xz
+#bundle config build.nokogiri --use-system-libraries \
+  --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+#bundle config build.nokogumbo --use-system-libraries
+gem install bundler
+bundle install
+#brew link xz
